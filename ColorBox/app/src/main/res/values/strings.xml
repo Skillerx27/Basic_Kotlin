@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ColorBox</string>
+    <string name="first">TextView</string>
+    <string name="box_three">Box Three</string>
+    <string name="box_four">Box Four</string>
+    <string name="box_five">Box Five</string>
+    <string name="textview6">How To Play</string>
+
+    <string name="textview7">Tab the screen or button</string>
+    <string name="how_to_play">How to play</string>
+    <string name="tab_the_screen_or_button">Tab the screen or button</string>
+</resources>
